@@ -1,0 +1,2 @@
+# Nigeria-Reproductive-Health-Mortality-Intelligence-Dashboard-Tool
+This three-page Power BI dashboard analyses Nigeria's reproductive health indicators and mortality burden using open-source data from the World Health Organisation, World Bank, and Nigeria's 2024 Demographic and Health Survey. The project was designed to replicate the kind of analytical outputs produced by public health programme monitoring teams.
